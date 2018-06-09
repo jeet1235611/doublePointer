@@ -12,4 +12,8 @@ int main() {
 	cout << p << endl;
 	cout << *p2 << endl;
 	cout << &i << endl;
+
+	cout << i << endl;
+	cout << *p << endl;
+	cout << **p2 << endl;
 }
