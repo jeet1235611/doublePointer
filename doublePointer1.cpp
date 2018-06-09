@@ -8,4 +8,8 @@ int main() {
 	int ** p2 = &p;
 	cout << p2 << endl;
 	cout << &p << endl;
+
+	cout << p << endl;
+	cout << *p2 << endl;
+	cout << &i << endl;
 }
