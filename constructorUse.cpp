@@ -16,7 +16,7 @@ int main() {
 */
 	Student s10(99);
 	Student s11(100);
-}
+}h
 ///yryry
 5665
 ytryyrty
