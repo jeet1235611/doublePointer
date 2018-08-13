@@ -17,3 +17,4 @@ int main() {
 	cout << *p << endl;
 	cout << **p2 << endl;
 }
+//
